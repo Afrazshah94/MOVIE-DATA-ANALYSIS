@@ -27,19 +27,19 @@ This project focuses on analyzing a dataset containing movie titles, release dat
 ## 📂 **Repository Structure**
 Here’s an overview of the files and folders in this repository:
 Movie-Box-Office-Analysis/
-├── data/ # Contains the dataset
-│ └── Movie-Data.csv
-├── notebooks/ # Contains the Python notebook
-│ └── Movie_Analysis.ipynb
-├── visualizations/ # Contains saved visualizations
-│ ├── Total_Revenue_by_Year.png
-│ ├── Average_Revenue_by_Year.png
-│ ├── Movie_Count_by_Year.png
-│ ├── Low_Revenue_Count_by_Year.png
-│ ├── Percent_Low_Revenue_by_Year.png
-│ └── Revenue_Trends_by_Year.png
-├── README.md # Project documentation
-└── requirements.txt # List of Python dependencies
+├── data/
+│   └── Movie-Data.csv
+├── notebooks/
+│   └── Movie-Data-Results.ipynb
+├── visualizations/
+│   ├── Total_Revenue_by_Year.png
+│   ├── Average_Revenue_by_Year.png
+│   ├── Movie_Count_by_Year.png
+│   ├── Low_Revenue_Count_by_Year.png
+│   ├── Percent_Low_Revenue_by_Year.png
+│   └── Revenue_Trends_by_Year.png
+├── README.md
+└── requirements.txt
 
 ---
 
